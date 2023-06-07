@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color: yellow ;
+}
+
+.logo img{
+    display: flex;
+    margin: auto;
+    width: 20%;
+    margin-bottom: 3%;
+    margin-top: 10%;
+  
+}
+
+.formulario_login{
+    
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 20%;
+}
+
+
+.form-label{
+    font-size: 12px;
+}
+
+.form-text{
+    font-size: 12px;
+}
+
+.form-check-label{
+    font-size: 12px;
+   
+}
+
+.btn-danger{
+    margin-bottom: 5%;
+}

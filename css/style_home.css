@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    color: yellow ;
+}
+.formulario_login_validacao{
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 20%;
+}
